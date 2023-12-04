@@ -112,6 +112,7 @@ body {
   }
 
   .img-placeholder {
+    font-size: 32px;
     width: 300px;
     height: 200px;
   }
