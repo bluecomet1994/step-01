@@ -99,6 +99,14 @@ body {
     padding: 10%;
   }
 
+  .card-container h1 {
+    font-size: 24px;
+  }
+
+  .card-container h2 {
+    font-size: 32px;
+  }
+
   .card-container p {
     width: 100%;
   }
